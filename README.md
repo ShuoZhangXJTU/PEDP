@@ -1,4 +1,5 @@
-<h1>“Think Before You Speak”: Improving Multi-action Dialog Policy by Planning Single-Action Dialogs  (IJCAI-22 long oral presentation)</h1>
+“Think Before You Speak”: Improving Multi-action Dialog Policy by Planning Single-Action Dialogs  [IJCAI-22 long oral presentation](https://arxiv.org/pdf/2204.11481.pdf)
+
 This is the codebase for the proposed multi-action 
 dialog policy model PEDP and all the SL-based baseline models (gCAS, DiaMultiClass, DiaMultiDense, and DiaSeq).
 
