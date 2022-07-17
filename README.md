@@ -1,7 +1,4 @@
-# PEDP
-“Think Before You Speak”: Improving Multi-action Dialog Policy by Planning Single-Action Dialogs  (IJCAI-22 long oral presentation)
-
-<h1>Planning-Enhanced Dialog Policy</h1>
+<h1>“Think Before You Speak”: Improving Multi-action Dialog Policy by Planning Single-Action Dialogs  (IJCAI-22 long oral presentation)</h1>
 This is the codebase for the proposed multi-action 
 dialog policy model PEDP and all the SL-based baseline models (gCAS, DiaMultiClass, DiaMultiDense, and DiaSeq).
 
@@ -54,6 +51,7 @@ Dataset schema is defined in <code>config_multiwoz.py</code> and <code>./sgd_dat
 <h3>Results</h3>
 We strongly recommend using tensorboard to check the results.
 Execute:
+
 ```
 tensorboard --bind_all --logdir=./log/tb/[file name]
 ```
