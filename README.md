@@ -51,7 +51,7 @@ Dataset schema is defined in <code>config_multiwoz.py</code> and <code>./sgd_dat
 ---
 
 <h3>Results</h3>
-We strongly recommend using tensorboard to check the results.
+You can use tensorboard to check the results.
 Execute:
 
 ```
